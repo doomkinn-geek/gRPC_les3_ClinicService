@@ -1,0 +1,5 @@
+﻿остановился на 47:55
+
+Миграция:
+- add-migration InitialCreate
+- update-database
